@@ -15,5 +15,8 @@
     "url": "https://github.com/Aniket8699/app-service-web-nodejs-get-started/issues"
   },
   "homepage": "https://github.com/Aniket8699/app-service-web-nodejs-get-started#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
